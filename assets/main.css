@@ -1,0 +1,163 @@
+#white { 
+	position:relative;
+	background-color:white;
+	opacity:1;
+	width:1440px;
+	height:900px;
+}
+#background_1 { 
+	opacity:1;
+	width: 200000px;
+    height: 200000px;
+    position: absolute;
+    left: -10px;
+    top: -10px;
+    background-image: url(images/background_1.png);
+    background-repeat: no-repeat;
+}
+#box1 { 
+	background-color:rgba(65.0000037252903, 13.000000175088644, 25.000000409781933, 0.800000011920929);
+	opacity:1;
+	width:784px;
+	height:120px;
+	position:absolute;
+	left:315px;
+	top:116px;
+}
+#box2 { 
+	background-color:rgba(65.0000037252903, 13.000000175088644, 25.000000409781933, 0.800000011920929);
+	opacity:1;
+    width: 750px;
+    height: 400px;
+    position: absolute;
+    left: 630px;
+    top: 450px;
+}
+#name { 
+	color:rgba(235.0000011920929, 188.0000039935112, 116.00000068545341, 1);
+	opacity:1;
+	width:753px;
+	height:97px;
+	position:absolute;
+	left:340px;
+	top:137px;
+	font-family:Federo;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#text { 
+	color:rgba(235.0000011920929, 188.0000039935112, 116.00000068545341, 1);
+	opacity:1;
+	width:709px;
+	height:338px;
+	position:absolute;
+	left:662px;
+	top:492px;
+	font-family:Federo;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+
+#e38_0 { 
+	position:relative;
+	opacity:1;
+	width:170px;
+	height:120px;
+}
+#e35_8 { 
+	background-color:rgba(238.00000101327896, 193.00000369548798, 120.00000044703484, 0.800000011920929);
+	opacity:1;
+	width:170px;
+	height:120px;
+	position:absolute;
+	left:1201px;
+	top:117px;
+}
+#e35_9 { 
+	color:rgba(211.43749594688416, 63.796798288822174, 55.50234496593475, 1);
+	opacity:1;
+	width:107px;
+	height:75px;
+	position:absolute;
+	left:1232px;
+	top:139px;
+	font-family:Federo;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+
+#circle1 { 
+	border-radius:500px;
+	background-color:rgba(234.81250405311584, 182.405047416687, 97.83854842185974, 0.800000011920929);
+	opacity:1;
+	width:258px;
+	height:258px;
+	position:absolute;
+	left:27px;
+	top:48.30438232421875px;
+}
+#circle2 { 
+	border-radius:500px;
+	background-color:rgba(68.00000354647636, 13.000000175088644, 23.000000528991222, 0.800000011920929);
+	opacity:1;
+	width:258px;
+	height:258px;
+	position:absolute;
+	left:27px;
+	top:333.30438232421875px;
+}
+#circle3 { 
+	border-radius:500px;
+	background-color:rgba(211.43749594688416, 63.796798288822174, 55.50234496593475, 0.800000011920929);
+	opacity:1;
+	width:258px;
+	height:258px;
+	position:absolute;
+	left:27px;
+	top:618.3043823242188px;
+}
+#dried_yellow_babys_breath { 
+	opacity:1;
+	width: 500px;
+    height: 415px;
+    position: absolute;
+    left: -150px;
+    top: 265px;
+    background-image: url(images/e2_01_1.png);
+    background-repeat: no-repeat;
+}
+#dried_purple_limonium { 
+	opacity:1;
+	width: 600px;
+    height: 559px;
+    position: absolute;
+    left: -294px;
+    top: 466px;
+    background-image: url(images/e1_01_2.png);
+    background-repeat: no-repeat;
+}
+#dried_dark_magenta_phalaris { 
+	opacity:1;
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    left: 27px;
+    top: 30px;
+    background-image: url(images/e3_1.png);
+    background-repeat: no-repeat;
+
+}
